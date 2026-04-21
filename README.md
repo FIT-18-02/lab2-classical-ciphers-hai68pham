@@ -2,8 +2,8 @@
 # FIT4012 - Lab 2: Classical Ciphers
 
 ##  Thông tin sinh viên
-- **Họ và tên:** Nguyễn Anh Dũng
-- **Mã sinh viên:** 1871020167
+- **Họ và tên:** Phạm Hoàng Hải
+- **Mã sinh viên:** 1871020214
 
 ##  Trạng thái dự án
 - **Tiến độ:** Hoàn thành 100% yêu cầu (Q1 - Q8).
